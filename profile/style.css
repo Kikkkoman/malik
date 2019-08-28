@@ -1,0 +1,31 @@
+h3 {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    margin: 0;
+}
+
+ul { 
+    background-color: rgb(190, 190, 190);
+    border: 2px solid grey;
+    margin: 4px;
+}
+
+ul:hover {
+    background-color: #fff;
+}
+
+.bout {
+    margin-top: 1em;
+    background-color: rgb(161, 161, 161);
+    width: 720px;
+}
+
+.skills {
+    margin-top: 45px;
+    display: block;
+}
+
+footer {
+    margin-top: 45px;
+}
